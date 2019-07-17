@@ -33,6 +33,7 @@ logupdate.avlyun.sec.miui.com
 market.mi-img.com
 mazu.sec.miui.com
 new.api.ad.xiaomi.com
+s1.mi-img.com
 sdkconfig.ad.xiaomi.com
 shopapi.io.mi.com
 ssp.ad.xiaomi.com
